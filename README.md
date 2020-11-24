@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### I'm first-year student from cracow studying IT and AI,
 ### I dont know much, but I hope that will change soon.
@@ -7,7 +7,7 @@
 e-mail: bernacikkamil@gmail.com
 academic e-mail: kbernacik@student.agh.edu.pl
 
-## [My GitHub Page](https://kamilb28.github.io/KamilBernacik.github.io)
+### [My GitHub Page](https://kamilb28.github.io/KamilBernacik.github.io)
 
 <!--
 **kamilb28/kamilb28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
