@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-### I'm first-year student from cracow studying IT and AI,
+### I'm a first-year student from cracow studying IT and AI,
 ### I dont know much, but I hope that will change soon.
 ### I'm currently learning C, C++, Python and lots of Math
 
